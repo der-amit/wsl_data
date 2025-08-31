@@ -1,1 +1,4 @@
-data/fawsl_events.parquet
+data/
+*.parquet
+*.csv
+*.xlsx
